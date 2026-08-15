@@ -1,6 +1,5 @@
-# Spotify Advanced SQL Project and Query Optimization P-6
+# Spotify Advanced SQL Project and Query Optimization
 Project Category: Advanced
-[Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
 ![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
 
@@ -165,13 +164,3 @@ This optimization shows how indexing can drastically reduce query time, improvin
 - **Visualize the Data**: Use a data visualization tool like **Tableau** or **Power BI** to create dashboards based on the query results.
 - **Expand Dataset**: Add more rows to the dataset for broader analysis and scalability testing.
 - **Advanced Querying**: Dive deeper into query optimization and explore the performance of SQL queries on larger datasets.
-
----
-
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
-
----
-
-## License
-This project is licensed under the MIT License.
